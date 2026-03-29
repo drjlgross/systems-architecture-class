@@ -193,13 +193,23 @@
               "icon": "lucide-list",
               "title": "Outline of systems-architecture-syllabus"
             }
+          },
+          {
+            "id": "984d1505a526ac43",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,15 +219,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2e312a3b4ebfc6c8",
   "lastOpenFiles": [
-    "unit_1/unit-1-podcast-transcript.md",
     "unit_1/unit-1-sources.md",
-    "unit_1/unit-1-notes.md",
     "unit_1/unit-1-reflection.md",
+    "unit_1/unit-1-podcast-transcript.md",
+    "unit_1/unit-1-notes.md",
     "course_docs/vault_plan.md",
     "course_docs/other_possible_content_sources.md",
     "course_docs/systems-architecture-syllabus.md",
