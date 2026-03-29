@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "c8144ab6b61f03d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb19a0f4a4aba55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e316f71f0643c33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "course_docs/systems-architecture-syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "systems-architecture-syllabus"
+            }
+          },
+          {
+            "id": "932e6fabcce0d33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit_1/unit-1-reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unit-1-reflection"
+            }
+          },
+          {
+            "id": "2e312a3b4ebfc6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit_1/unit-1-reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "unit-1-reflection"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6151bd58a3f675da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b534e7fd9bf9bc02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fdd578033f1d99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f43d10ba015de921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd9b1a0887aee4f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c45be9693025ebf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb5d0c029dd2886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100e7a24181b84af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "course_docs/systems-architecture-syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for systems-architecture-syllabus"
+            }
+          },
+          {
+            "id": "f6bfd4eafc1570af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "course_docs/systems-architecture-syllabus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from systems-architecture-syllabus"
+            }
+          },
+          {
+            "id": "46c4612fbadf3be1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f92b163e729aa86",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bdeee3135f65e725",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "course_docs/systems-architecture-syllabus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of systems-architecture-syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2e312a3b4ebfc6c8",
+  "lastOpenFiles": [
+    "unit_1/unit-1-podcast-transcript.md",
+    "unit_1/unit-1-sources.md",
+    "unit_1/unit-1-notes.md",
+    "unit_1/unit-1-reflection.md",
+    "course_docs/vault_plan.md",
+    "course_docs/other_possible_content_sources.md",
+    "course_docs/systems-architecture-syllabus.md",
+    "here.md",
+    "unit_1/podcast_1_transcript.md",
+    "course_docs",
+    "Welcome.md",
+    "unit_1",
+    "course_docs/systems-architecture-benchmarks.md"
+  ]
+}

@@ -1,0 +1,4 @@
+
+--> https://xpro.mit.edu/programs/program-v1:xPRO+SysEngx/?utm_term=architecture%20and%20systems%20engineering&utm_campaign=SysEngx-r27&utm_source=google&utm_medium=ppc&utm_content=run27-aw-usa&hsa_acc=2625711588&hsa_cam=23123070855&hsa_grp=187926845898&hsa_ad=779138479160&hsa_src=g&hsa_tgt=kwd-1412569158381&hsa_kw=architecture%20and%20systems%20engineering&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23123070855&gbraid=0AAAAADMFzx-hIrJbIfNd6kERPOoKGaiAx
+
+--> https://onlineexeced.mccombs.utexas.edu/brochures/genai-for-software-development-intl?id=57463255-3b71-493a-8edf-18d6ccee9e60&enc_e_lid=coPOBcQl9joweZD6OAb5%2F6DU4woEmJi4hXpGnuTDJ9ty%2BTwO%2FfbZgM1LqnHY5YDJId1ynJ4DP4FSCBdplWXb2AmG21a4jjgnPi%2BXRedKwxtpONcfLsYSrH5e8gIgDPzNco9dkpEaQqH%2FG67fcthrQGgXgw6p0g%3D%3D--rdKqw7XNKsQKFnyd--mz47lGil5%2Fxc9D1F%2FHmMXA%3D%3D&utm_source=google&utm_medium=search&utm_campaign=GenAI_SD_Int_Search_FullStackDev_PhraseExact_US_Program
