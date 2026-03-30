@@ -4,3 +4,5 @@ Draw the dependency graph of your pipeline scripts. Which ones are tightly coupl
 
 ---
 ### Answer: 
+
+Can I edit things in the web interface directly and have the changes go back to my local file structure? Let's find out! 
