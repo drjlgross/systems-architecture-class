@@ -62,10 +62,10 @@ Use concrete examples where possible — a multi-script pipeline that shares a m
 
 ### Podcast Transcript: 
 
-Link, 
+Link, [[unit-2-podcast-transcript|here]].
 
 ---
 
 ### Reflection 
 
-Doc, 
+Doc, [[unit-2-reflection|here]].
